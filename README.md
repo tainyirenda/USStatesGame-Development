@@ -2,7 +2,7 @@
 <h1 align="center"> Python Project</h1>
 <h3 align="center">Hi 👋, I'm Tai</h3>
 
-<h3 align="left"> 🌱 Come and see what I've created in Python to develop a United States guessing game with the turtle package and use of pandas library</h3>
+<h4 align="left"> 🌱 Come and see what I've created in Python to develop a United States guessing game with the turtle package and use of pandas library</h4>
 <p align="left">
 </p>
 
